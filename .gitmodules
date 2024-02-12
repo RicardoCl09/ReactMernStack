@@ -1,0 +1,3 @@
+[submodule "frotend"]
+	path = frotend
+	url = https://github.com/RicardoCl09/frotend.git
